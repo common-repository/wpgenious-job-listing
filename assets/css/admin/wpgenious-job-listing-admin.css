@@ -1,0 +1,362 @@
+.wpgenious-job-listing-admin-page #wpcontent{
+    padding: 0;
+}
+
+.wpgenious-job-listing-admin-page .wrap {
+    padding-left: 20px;
+}
+
+.wpgenious-job-listing-admin-page #wpbody-content{
+    margin-top: 50px;
+}
+
+.wpgenious-job-listing-admin-nav-header {
+    display: flex;
+    position: fixed;
+    background: #fff;
+    width: 100%;
+    border-bottom: 1px solid #ccd0d4;
+    z-index: 9989;
+    height: 30px;
+    padding: 15px 20px;
+}
+
+.wpgenious-job-listing-admin-nav-header .wpgenious-job-listing-logo {
+    margin-right: 70px;
+}
+
+.wpgenious-job-listing-admin-nav-header .wpgenious-job-listing-admin-nav ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 40px;
+}
+
+.wpgenious-job-listing-admin-nav-header .wpgenious-job-listing-admin-nav ul li{
+    display: inline-block;
+    padding: 0 20px;
+    margin: 0;
+}
+
+.wpgenious-job-listing-admin-nav-header .wpgenious-job-listing-admin-nav ul li a{
+    text-decoration: none;
+    line-height: 30px;
+    outline: none;
+    box-shadow: none;
+    display: block;
+    color: #4762e9;
+}
+
+.wpgenious-job-listing-admin-nav-header .wpgenious-job-listing-admin-nav ul li a.active {
+    border-bottom: 1px solid;
+    font-weight: bold;
+}
+
+.wpgenious-job-listing-admin-nav-header .wpgenious-job-listing-admin-nav ul li a.button {
+    background: #1647fe;
+    color: white;
+    border-color: #1647fe;
+}
+
+.wpgenious-job-listing-admin-settings h2 {
+    font-size: 16px;
+    margin: 0;
+}
+
+.wpgenious-job-listing-col-7 {
+    float: left;
+    width: 70%;
+}
+
+.wpgenious-job-listing-col-3{
+    float: left;
+    width: 30%;
+}
+
+.wpgenious-job-listing-aside {
+    padding-left: 20px;
+    margin-top: 5px;
+}
+
+.wpgenious-job-listing-aside .tags {
+    background: #ebebeb;
+    padding: 15px;
+    border: 1px solid #d7d7d7;
+}
+
+table.wpgenious-job-listing_meta_box_table td{
+    padding: 10px 0;
+}
+
+table.wpgenious-job-listing_meta_box_table td:not(:first-child) {
+    font-weight: 700;
+}
+
+table.wpgenious-job-listing_meta_box_table td span.text {
+    display: inline-block;
+    margin-top: 2px;
+}
+
+table.wpgenious-job-listing_table,
+.wpgenious-job-listing-aside .tags table {
+    width: 100%;
+}
+
+.wpgenious-job-listing-aside .tags td {
+    padding-bottom: 10px;
+    font-size: 14px;
+}
+
+.wpgenious-job-listing-aside .wpgenious-job-listing-row{
+    background: white;
+}
+
+.wpgenious-job-listing-container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.wpgenious-job-listing-row{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.wpgenious-job-listing-col {
+    flex-basis: 0;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    max-width: 100%;
+    margin-bottom: 15px;
+}
+
+.wpgenious-job-listing-col.col-half {
+    width: 40%;
+    padding: 0 15px;
+    display: inline-block;
+}
+
+.wpgenious-job-listing-col.col-full {
+    padding: 0 15px;
+}
+
+.wpgenious-job-listing-col label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.wpgenious-job-listing-col input.wpgenious-job-listing-input,
+.wpgenious-job-listing-col textarea.wpgenious-job-listing-input{
+    padding: 0 8px;
+    line-height: 2;
+    min-height: 30px;
+    border-radius: 4px;
+    border: 1px solid #7e8993;
+    width: 100%;
+}
+
+/* Job Custom fields */
+.wpgenious-job-listing_job_custom_wrapper label,
+.wpgenious-job-listing_job_custom_wrapper input {
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Tabs */
+.tabs {
+    padding: 5px 0 0 0;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.tabs__header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #eee;
+}
+
+.tabs__heading {
+    background-color: #e5e5e5;
+    flex: 1;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.tabs__heading:hover {
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.tabs__heading.is-active {
+    background-color: #fff;
+}
+
+.tabs__content {
+    background-color: #fff;
+    border-radius: 0 0 4px 4px;
+    display: none;
+    padding: 20px 20px 30px;
+}
+
+.tabs__content.is-active {
+    display: block;
+}
+
+td.wpgenious-job-listing-fields-drag-control-wrapper,
+th.wpgenious-job-listing-fields-drag-control-wrapper {
+    padding: 0;
+    max-width: 20px;
+    width: 10px;
+}
+
+.wpgenious-job-listing-fields-drag-control {
+    padding-top: 5px;
+    padding-right: 20px;
+}
+
+.form-table.wpgenious-job-listing-job-custom-fields {
+    max-width: 600px;
+    margin-bottom: 30px;
+}
+
+.wpgenious-job-listing-job-custom-fields tr {
+    cursor: pointer;
+}
+
+.wpgenious-job-listing-job-custom-fields th{
+    padding: 0 0 0 12px;
+}
+
+th.column-avatar {
+    width: 32px;
+}
+
+.wpgenious-job-listing-rating {
+    display: flex;
+}
+
+.wpgenious-job-listing-rating > input {
+    display: none;
+}
+
+.wpgenious-job-listing-rating.action {
+    display: inline-block;
+}
+
+.wpgenious-job-listing-rating.action label {
+    margin-right: 1px;
+    font-size: 25px;
+}
+
+.wpgenious-job-listing-rating.action input[type=radio]:checked+label:before,
+.wpgenious-job-listing-rating.action label,
+.wpgenious-job-listing-rating span {
+    color: #FFD700;
+}
+
+.wpgenious-job-listing-rating.action > input:checked ~ label:before,
+.wpgenious-job-listing-rating.action.empty-rating label:before,
+.wpgenious-job-listing-rating.action label:hover ~ label:before {
+    content: "\f154";
+}
+
+.wpgenious-job-listing-rating.action label:before,
+.wpgenious-job-listing-rating.action:hover label:before {
+    content: "\f155";
+}
+
+.job-status,
+.applicant-status {
+    text-transform: capitalize;
+    display: inline-block;
+    padding: .35em .65em;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+}
+
+#applicant-actions .inside,
+#applicant-details .inside {
+    padding: 0;
+    margin: 0;
+}
+
+#applicant-actions table tr td{
+    padding: 6px 10px 8px;
+}
+
+.application-container {
+    display: flex;
+}
+
+.application-container .application-image-container {
+    width: 200px;
+    padding: 30px 0 30px 0;
+    border-right: 1px solid #c8cacc;
+}
+
+.application-container .application-image-container .image {
+    text-align: center;
+}
+
+.application-container .application-image-container .image img {
+    border-radius: 50%;
+}
+
+.application-details-container {
+    width: calc(100% - 200px);
+}
+
+.application-details-container ul li {
+    border-bottom: 1px solid #c8cacc;
+    padding: 10px 20px 10px 20px;
+}
+
+.application-details-container ul li:last-child {
+    border-bottom: none;
+}
+
+.application-details-container ul li span.name {
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+.wpgenious-job-listing-file-download-link {
+    background-color: #007cba;
+    color: #ffffff;
+    padding: 10px;
+    min-width: 170px;
+    font-size: 13px;
+    border-radius: 6px;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
+
+table.wpgenious-job-listing-application-job-details {
+    width: 100%;
+}
+
+table.wpgenious-job-listing-application-job-details tr td{
+    padding: 4px 0;
+}
+
+table.wpgenious-job-listing-application-job-details tr td:last-child {
+    padding-left: 5px;
+}
+
+.wp-admin.post-type-job_application #post-body-content{
+    margin-bottom: 0;
+}

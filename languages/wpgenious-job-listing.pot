@@ -1,0 +1,795 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-09-11 16:09+0100\n"
+"PO-Revision-Date: 2021-01-08 16:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_html;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: src/admin/class-wpgenious-job-listing-admin.php:189
+#: src/admin/class-wpgenious-job-listing-admin.php:190
+#: src/admin/class-wpgenious-job-listing-admin.php:235
+#: src/admin/partials/wpgenious-job-listing-admin-display.php:58
+msgid "Settings"
+msgstr ""
+
+#: src/admin/class-wpgenious-job-listing-admin.php:198
+#: src/admin/class-wpgenious-job-listing-admin.php:245
+msgid "Contact Us"
+msgstr ""
+
+#: src/admin/class-wpgenious-job-listing-admin.php:223
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:39
+msgid "Jobs"
+msgstr ""
+
+#: src/admin/class-wpgenious-job-listing-admin.php:229
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:97
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:99
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:237
+#: src/admin/partials/templates/application-job-details.php:34
+#: src/admin/partials/templates/job-information.php:24
+msgid "Applications"
+msgstr ""
+
+#: src/admin/class-wpgenious-job-listing-admin.php:240
+msgid "Documentation"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:56
+msgid "Job Information"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:57
+msgid "Application details"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:58
+msgid "Resume preview"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:59
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:40
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:160
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:235
+#: src/admin/partials/templates/application-job-details.php:14
+msgid "Job"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:60
+msgid "Actions"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:66
+msgid "Job Custom Fields"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:67
+msgid "Job Expiry"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:80
+msgid "Delete Permanently"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:82
+msgid "Move to Trash"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:97
+msgid "Update"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:109
+msgid "Name"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:114
+#: src/public/class/class-wpgenious-job-listing-form-builder.php:160
+msgid "Email"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:120
+#: src/public/class/class-wpgenious-job-listing-form-builder.php:174
+msgid "Phone"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:126
+msgid "Resume"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:131
+#: src/public/class/class-wpgenious-job-listing-form-builder.php:187
+msgid "Cover Letter"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:195
+#, php-format
+msgid "Download resume (%s)"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-meta.php:229
+msgid "No attachment found"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-options.php:180
+msgid "Error in saving file upload types!"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-options.php:199
+msgid "By using this form you agree with our RDPG policy."
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-options.php:213
+msgid "URL slug cannot be empty."
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-options.php:221
+msgid "Slug cannot be updated. A page with same slug exists. Please choose a different URL slug."
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:41
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:44
+msgid "New Job"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:42
+msgid "Add New Job"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:43
+msgid "Edit Job"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:45
+msgid "Search Jobs"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:46
+msgid "No Jobs found"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:47
+msgid "No Jobs found in Trash"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:48
+msgid "Parent Job :"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:49
+msgid "Job Listing"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:50
+msgid "View Job listing"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:51
+msgid "View Job listings"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:52
+msgid "Job listing published."
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:53
+msgid "Job listing published privately."
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:54
+msgid "Job listing reverted to draft."
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:55
+msgid "Job listing scheduled."
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:56
+msgid "Job listing updated."
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:98
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:100
+msgid "Application"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:101
+msgid "Search Applications"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:102
+msgid "No Applications found"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:103
+msgid "No Applications found in Trash"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:158
+msgid "Applicant Name"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:159
+msgid "Applicant Email"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:161
+msgid "Date"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:162
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:240
+#: src/admin/partials/templates/application-actions.php:20
+msgid "Status"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:163
+msgid "Rating"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:236
+msgid "ID"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:238
+#: src/admin/partials/templates/application-job-details.php:24
+#: src/admin/partials/templates/job-information.php:20
+msgid "Views"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:239
+#: src/admin/partials/templates/job-information.php:28
+msgid "Conversion"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:280
+msgid "Expiry"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:283
+msgid "Active"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:308
+#, php-format
+msgid "Received on %s"
+msgstr ""
+
+#: src/admin/class/class-wpgenious-job-listing-post-type.php:313
+msgid "from IP "
+msgstr ""
+
+#: src/admin/partials/templates/application-actions.php:37
+#, php-format
+msgid "<span class=\"text\">Received %s</span>"
+msgstr ""
+
+#: src/admin/partials/templates/application-job-details.php:51
+msgid "Conversions"
+msgstr ""
+
+#: src/admin/partials/templates/application-job-details.php:65
+msgid "Created at"
+msgstr ""
+
+#: src/admin/partials/templates/job-expiry.php:15
+msgid "Expiry date"
+msgstr ""
+
+#: src/admin/partials/templates/job-expiry.php:21
+msgid "Display expiry date"
+msgstr ""
+
+#: src/admin/partials/templates/job-information.php:16
+msgid "Job Title"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:41
+msgid "Listing layout options :"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:47
+msgid "Layout of jobs listing page"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:52
+msgid "One column"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:54
+msgid "Two columns"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:60
+msgid "Jobs list view"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:66
+msgid "List"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:69
+msgid "Grid"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:75
+msgid "Number of columns"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:80
+msgid "1 Column"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:81
+msgid "2 Columns"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:82
+msgid "3 Columns"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:83
+msgid "4 Columns"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:90
+msgid "Jobs per page"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:96
+msgid "Number of jobs per page"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:102
+msgid "Search options :"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:108
+msgid "Jobs search"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:113
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:162
+#: src/admin/partials/wpgenious-job-listing-admin-display-form.php:72
+msgid "Yes"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:115
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:164
+#: src/admin/partials/wpgenious-job-listing-admin-display-form.php:74
+msgid "No"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:116
+msgid "Enable jobs search"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:122
+msgid "Search by"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:138
+msgid "Single job page :"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:144
+msgid "Layout of job details page :"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:149
+msgid "Single Column"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:151
+msgid "Two Columns"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:157
+msgid "Custom Fields :"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:170
+msgid "Job Custom Fields Position :"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:176
+msgid "Before Job Content"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-appearance.php:179
+msgid "After Job Content"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-fields.php:45
+msgid "Field Name : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-fields.php:46
+msgid "Micro data ( optional ) : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-fields.php:47
+msgid "Icon ( optional ) : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-fields.php:48
+msgid "Action : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-fields.php:62
+msgid "Select "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-fields.php:77
+#: src/admin/partials/wpgenious-job-listing-admin-display-fields.php:112
+msgid "Select icon "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-fields.php:94
+#: src/admin/partials/wpgenious-job-listing-admin-display-fields.php:126
+msgid "Delete "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-fields.php:132
+msgid "Add new field "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-form.php:39
+msgid "Upload options"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-form.php:45
+msgid "Supported upload file types : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-form.php:54
+msgid "Select the supported file types for CV upload field"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-form.php:61
+msgid "GDPR Compliance"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-form.php:67
+msgid "Enable the GDPR : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-form.php:80
+#: src/admin/partials/wpgenious-job-listing-admin-display-form.php:85
+msgid "GDPR text : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-general.php:29
+msgid "Name of the Company : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-general.php:40
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:229
+msgid "HR Email\t: "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-general.php:45
+msgid "Email for notifications"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-general.php:52
+msgid "URL slug for jobs : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-general.php:57
+msgid "For jobs archive page url"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-general.php:64
+msgid "Default message for ( no job ) : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-general.php:69
+msgid "No job found message"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:39
+msgid "Application Received ( Applicant Notification )"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:42
+msgid "Application Received ( Admin Notification )"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:55
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:108
+msgid "From : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:61
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:114
+msgid "Reply-To : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:69
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:122
+msgid "To : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:75
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:128
+msgid "CC : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:83
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:136
+msgid "Subject : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:91
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:144
+msgid "Content : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:165
+msgid "Template Tags"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:169
+msgid "Applicant Name : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:173
+msgid "Application ID : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:177
+msgid "Applicant Email : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:181
+msgid "Applicant Phone : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:185
+msgid "Applicant Resume : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:189
+msgid "Cover letter : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:193
+msgid "Job Title : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:197
+msgid "Job ID : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:201
+msgid "Job Expiry Date : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:205
+msgid "Site admin email : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:209
+msgid "Site name : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:213
+msgid "Site title : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:217
+msgid "Site description : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:221
+msgid "Site Url : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display-notification.php:225
+msgid "Company : "
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display.php:23
+msgid "General"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display.php:24
+msgid "General settings"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display.php:29
+msgid "Form"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display.php:30
+msgid "Apply form settings"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display.php:35
+msgid "Job Fields"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display.php:36
+msgid "Job custom fields"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display.php:41
+#: src/admin/partials/wpgenious-job-listing-admin-display.php:42
+msgid "Appearance"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display.php:47
+msgid "E-mail Notifications"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display.php:48
+msgid "E-mail notifications"
+msgstr ""
+
+#: src/admin/partials/wpgenious-job-listing-admin-display.php:78
+msgid "Coming soon..."
+msgstr ""
+
+#: src/includes/class-wpgenious-job-listing-activator.php:51
+msgid "No job found . "
+msgstr ""
+
+#: src/includes/class-wpgenious-job-listing-activator.php:53
+msgid "By using this form you agree with our RDPG policy . "
+msgstr ""
+
+#: src/includes/class-wpgenious-job-listing-activator.php:68
+msgid "Thanks for submitting your application for a job for "
+msgstr ""
+
+#: src/includes/class-wpgenious-job-listing-activator.php:74
+msgid "New application for the position {job-title} - {job-id}"
+msgstr ""
+
+#: src/public/class-wpgenious-job-listing-public.php:188
+msgid "Loading..."
+msgstr ""
+
+#: src/public/class-wpgenious-job-listing-public.php:190
+msgid "Error in submitting your application. Please try again later!"
+msgstr ""
+
+#: src/public/class-wpgenious-job-listing-public.php:191
+msgid "The file you have selected is too large."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-application.php:45
+#, php-format
+msgid "Extension ( %1$s ) is not allowed."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-application.php:74
+msgid "Error in submitting your application. Please refresh the page and retry."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-application.php:78
+msgid "Error occurred: Invalid Job."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-application.php:82
+msgid "Sorry! This job is expired."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-application.php:86
+msgid "Name is required."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-application.php:90
+msgid "Email is required."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-application.php:92
+msgid "Invalid email format."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-application.php:96
+msgid "Contact number is required."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-application.php:98
+msgid "Invalid phone number."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-application.php:102
+msgid "Please select your cv/resume."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-application.php:106
+msgid "Please agree to our privacy policy."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-application.php:195
+msgid "Your application has been submitted."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-form-builder.php:47
+#: src/public/class/class-wpgenious-job-listing-form-builder.php:231
+msgid "This field is required."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-form-builder.php:84
+msgid "Please Choose an Option"
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-form-builder.php:145
+#, php-format
+msgid "Allowed Type(s): %1$s"
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-form-builder.php:150
+msgid "Full Name"
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-form-builder.php:169
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-form-builder.php:182
+msgid "Please enter a valid phone number."
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-form-builder.php:196
+msgid "Upload CV/Resume"
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-form-builder.php:245
+msgid "Submit"
+msgstr ""
+
+#: src/public/class/class-wpgenious-job-listing-form-builder.php:246
+msgid "Submitting..."
+msgstr ""
+
+#: src/public/partials/archive-job_listing.php:41
+msgid "Job offers"
+msgstr ""
+
+#: src/public/partials/archive-job_listing.php:50
+msgid "Keyword"
+msgstr ""
+
+#: src/public/partials/archive-job_listing.php:82
+msgid "Search"
+msgstr ""
+
+#: src/public/partials/archive-job_listing.php:82
+msgid "Searching..."
+msgstr ""
+
+#: src/public/partials/archive-job_listing.php:94
+msgid "Load more"
+msgstr ""
+
+#: src/public/partials/form.php:26
+#, php-format
+msgid "This job has expired on %s ."
+msgstr ""
+
+#: src/public/partials/form.php:30
+msgid "This job has expired."
+msgstr ""
+
+#: src/public/partials/form.php:44
+msgid "Apply for this job"
+msgstr ""
+
+#: src/public/partials/results-job_listing.php:89
+msgid "More Details"
+msgstr ""
